@@ -1,0 +1,34 @@
+{
+    "cardong":  [
+          {"id":1,
+            "img":"https://voluntauros.files.wordpress.com/2014/02/logo.jpg",
+              "titulo":"Cão sem dono",
+              "texto": "O Cão Sem Dono é uma ONG (Organização Não Governamental), sem fins lucrativos, e que nasceu de um grande sonho do seu atual presidente: tirar o maior número possível de animais das ruas, dar tratamento adequado e integrá-los a famílias que lhes deem amor, carinho e uma vida digna. Mas, chegar até aqui, não foi fácil. Há sete anos atrás, em 2005, o que era sonho começou a se tornar realidade.",
+              "link": "http://www.caosemdono.com.br/"
+          },  
+          {"id":2,
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkSWQnczaOUYaEy1d0e34tezeXyVNs-QpkGbODYNzqFVJ2kiSb&s",
+              "titulo":"Gatópoles",
+              "texto": "A Gatópoles - Adoção de Gatinhos é uma ONG (Organização Não Governamental), com sede em São Paulo (SP), tem como objetivo encaminhar para famílias responsáveis gatos retirados das mais diversas situações de risco.Mantemos o abrigo com transparência, através da doação de pessoas de bem, que compartilham dos nossos mesmos objetivos de vida - salvar vidas de animaizinhos em situações de risco e abandono, já que não contamos com nenhuma ajuda do governo ou da iniciativa privada.",
+              "link": "http://www.gatopoles.com.br/"           
+            },
+          {"id":3,
+            "img":"https://i.ytimg.com/vi/xzaY1c4oBOU/hqdefault.jpg",
+              "titulo":"Rancho dos Gnomos",
+              "texto": "A Associação Santuário Ecológico Rancho dos Gnomos (ASERG) é uma associação civil sem fins lucrativos, atuando desde 1991 em Cotia-SP e formalmente constituída como uma Organização Não-Governamental no ano de 2000. Prima pelo bem-estar da fauna silvestre, exótica, nativa, doméstica e domesticada por meio de sua preservação, conservação, recuperação e propagação da educação ambiental para a consecução e alcance de um ambiente sadio e equilibrado, nos termos do Artigo 225 de nossa Constituição Federal.",
+               "link": "http://www.ranchodosgnomos.org.br/novo/"         
+              },
+              {"id":4,
+            "img":"http://omvet.com.br/gallery_gen/b43f3af17b864be23fb3b960985bae37_440x330.png",
+              "titulo":"Catland",
+              "texto": "Fundada em 2012, a Catland é uma ONG (Organização Não Governamental) que tem como objetivo sensibilizar a sociedade sobre a guarda animal responsável, colaborar com o controle populacional dos gatos de rua e encontrar lares responsáveis para o maior número possível deles.",
+                "link": "http://www.catland.org.br/"            },
+          {"id":5,
+            "img":"https://static.wixstatic.com/media/7c1ac9_f926e584894046e68da48bfb69a13609~mv2.jpg/v1/fill/w_142,h_142,al_c,q_80,usm_0.66_1.00_0.01/7c1ac9_f926e584894046e68da48bfb69a13609~mv2.jpg",
+              "titulo":"Bendita Adoção",
+              "texto": "Libertação Animal, Veganismo, Resgates e Adoções.",
+              "link":"https://www.instagram.com/ongbenditaadocao/?hl=pt-br"
+          }
+         
+  ]
+  }
